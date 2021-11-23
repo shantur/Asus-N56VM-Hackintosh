@@ -10,6 +10,7 @@ What works
 - Wifi with BCRM9485 replacement
 - Sleep manual and lid close. Auto wake on lid open
 - Screen Brightness
+- Internal SDCard Reader
 
 What doesn't work
 - Webcam - Black screen
