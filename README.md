@@ -11,8 +11,13 @@ What works
 - Sleep manual and lid close. Auto wake on lid open
 - Screen Brightness
 - Internal SDCard Reader
+- Special Function Keys
+- CPU Power Management
+
+Monterey support
+- Works with System Volume Patch to enable HD4000 Graphics with OpenCore Legacy Patcher
 
 What doesn't work
+- Brightness Control in Monterey
 - Webcam - Black screen
-- Special Function Keys
 - HDMI - Connected to dGPU Nvidia Optimus
